@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "180814855818",
+    "project_id": "travenor-owner",
+    "storage_bucket": "travenor-owner.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180814855818:android:6d8c8b39167424b3787773",
+        "android_client_info": {
+          "package_name": "com.example.travenor_customerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180814855818-dlld132e67ub4o90n745c387oob07g8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6lWdSBhafMchyM4SrgPLJx2adYNv5BEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180814855818-dlld132e67ub4o90n745c387oob07g8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
